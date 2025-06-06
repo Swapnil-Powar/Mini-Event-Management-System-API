@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+pydantic[email]
+python-dateutil
+pytz
+pytest
+httpx   
